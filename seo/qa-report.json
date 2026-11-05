@@ -1,0 +1,1043 @@
+{
+ "generatedAt": "2026-11-02T18:39:07.217Z",
+ "base": "http://localhost:3000",
+ "routesTested": 62,
+ "internalLinksChecked": 62,
+ "sitemapUrls": 56,
+ "contactApiValidStatus": 503,
+ "errors": [],
+ "results": [
+  {
+   "route": "/apps/ibo-player",
+   "status": 200,
+   "h1": 1,
+   "title": "IBO Player Setup: MAC Address, Device Key &amp; Playlist Upload",
+   "description": "Set up IBO Player on Samsung, LG or Android TV: find your MAC address and device key, upload your playlist safely, and fix missing channels.",
+   "canonical": "https://iptv-usa8k.com/apps/ibo-player",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 29
+  },
+  {
+   "route": "/apps/kodi",
+   "status": 200,
+   "h1": 1,
+   "title": "Kodi IPTV Setup with PVR IPTV Simple Client (Step by Step)",
+   "description": "Watch IPTV in Kodi with the official PVR IPTV Simple Client: add your M3U and EPG links, fix guide timing, and tune Kodi for live TV.",
+   "canonical": "https://iptv-usa8k.com/apps/kodi",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 30
+  },
+  {
+   "route": "/apps/iptv-smarters-pro",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Smarters Pro: Download, Login &amp; Setup on Every Device",
+   "description": "How to get IPTV Smarters Pro on Android, Fire TV, iPhone, Apple TV and Windows, log in with Xtream Codes or M3U, and fix the most common Smarters errors.",
+   "canonical": "https://iptv-usa8k.com/apps/iptv-smarters-pro",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/apps/tivimate",
+   "status": 200,
+   "h1": 1,
+   "title": "TiviMate Setup Guide: Companion App, Premium &amp; Best Settings",
+   "description": "Set up TiviMate on Fire TV or Android TV, add your playlist and guide, activate Premium with the TiviMate Companion app, and tune the settings that matter.",
+   "canonical": "https://iptv-usa8k.com/apps/tivimate",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 30
+  },
+  {
+   "route": "/apps/iptv-web-player",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Web Player: Watch in a Browser and Keep Your Login Safe",
+   "description": "How IPTV web players work, why some streams won&#x27;t play in a browser, how to protect your login on third-party sites, and when a desktop player is a better choice.",
+   "canonical": "https://iptv-usa8k.com/apps/iptv-web-player",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/apps/xciptv",
+   "status": 200,
+   "h1": 1,
+   "title": "XCIPTV Player Setup &amp; Login Guide for Android Devices",
+   "description": "Install XCIPTV on Android phones, Android TV boxes and Fire TV, log in with Xtream Codes, and use its dual player engines to fix streams that won&#x27;t play elsewhere.",
+   "canonical": "https://iptv-usa8k.com/apps/xciptv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/apps",
+   "status": 200,
+   "h1": 1,
+   "title": "Best IPTV Player Apps Compared: TiviMate, Smarters, IBO &amp; More",
+   "description": "Compare the most-used IPTV player apps by device, price model and TV guide quality to pick the right one for Fire TV, Android TV, smart TVs or Apple.",
+   "canonical": "https://iptv-usa8k.com/apps",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/compare/apple-tv-vs-fire-stick",
+   "status": 200,
+   "h1": 1,
+   "title": "Apple TV vs Fire Stick: Which Streaming Device Is Worth It?",
+   "description": "Apple TV 4K vs Fire TV Stick compared on price tier, speed, interface, ads, apps, privacy, smart home and sideloading, with a clear pick for each kind of household.",
+   "canonical": "https://iptv-usa8k.com/compare/apple-tv-vs-fire-stick",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/compare/chromecast-vs-roku",
+   "status": 200,
+   "h1": 1,
+   "title": "Chromecast vs Roku: Differences and What to Buy Instead Today",
+   "description": "Chromecast vs Roku compared on casting, remote use, apps, home screen and ads, plus what to buy now that Google has replaced Chromecast with the Google TV Streamer.",
+   "canonical": "https://iptv-usa8k.com/compare/chromecast-vs-roku",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/compare/fire-tv-cube-vs-stick",
+   "status": 200,
+   "h1": 1,
+   "title": "Fire TV Cube vs Fire Stick: Is the Cube Worth the Extra Cost?",
+   "description": "Fire TV Cube vs Fire TV Stick compared on speed, hands-free Alexa, Ethernet, HDMI input, storage and placement, plus when the extra cost of a Cube makes sense.",
+   "canonical": "https://iptv-usa8k.com/compare/fire-tv-cube-vs-stick",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/compare/firestick-models",
+   "status": 200,
+   "h1": 1,
+   "title": "Fire Stick Comparison: HD vs 4K Select vs 4K Plus vs 4K Max",
+   "description": "Compare today&#x27;s Fire TV Sticks: HD, 4K Select, 4K Plus and 4K Max. See how they differ on Fire OS vs Vega OS, sideloading, memory, storage, Wi-Fi and HDR.",
+   "canonical": "https://iptv-usa8k.com/compare/firestick-models",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/compare/google-tv-vs-android-tv",
+   "status": 200,
+   "h1": 1,
+   "title": "Google TV vs Android TV: What&#x27;s Actually Different?",
+   "description": "Google TV and Android TV explained: how the interfaces differ, whether apps change, which TVs use each one, and what the end of Chromecast means if you&#x27;re buying.",
+   "canonical": "https://iptv-usa8k.com/compare/google-tv-vs-android-tv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/compare/google-tv-vs-fire-tv",
+   "status": 200,
+   "h1": 1,
+   "title": "Google TV vs Fire TV: Which Streaming Platform Is Better?",
+   "description": "Google TV vs Fire TV compared on home screen, ads, apps, sideloading, voice assistants, casting and smart home, plus which one is the better choice for IPTV apps.",
+   "canonical": "https://iptv-usa8k.com/compare/google-tv-vs-fire-tv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/compare/iptv-vs-cable",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV vs Cable TV: Cost, Channels &amp; Reliability Compared",
+   "description": "Compare cable, satellite, live TV streaming, free streaming, antennas and IPTV on cost, equipment, contracts and local channels.",
+   "canonical": "https://iptv-usa8k.com/compare/iptv-vs-cable",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/compare/live-tv-streaming-services",
+   "status": 200,
+   "h1": 1,
+   "title": "Cheapest Live TV Streaming: How to Compare the Services",
+   "description": "How to find the cheapest live TV streaming service for your home: compare Philo, Sling, YouTube TV, Hulu + Live TV, Fubo and DirecTV Stream by what you watch.",
+   "canonical": "https://iptv-usa8k.com/compare/live-tv-streaming-services",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/compare/roku-vs-fire-stick",
+   "status": 200,
+   "h1": 1,
+   "title": "Roku vs Fire Stick (2026): Which Streaming Stick Should You Buy?",
+   "description": "Roku vs Fire Stick compared on ease of use, ads, app selection, 4K and HDR, AirPlay, voice control and IPTV support, with a clear pick for different households.",
+   "canonical": "https://iptv-usa8k.com/compare/roku-vs-fire-stick",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/compare/roku-models",
+   "status": 200,
+   "h1": 1,
+   "title": "Roku Stick vs Roku Ultra vs Express: Which Roku Should You Buy?",
+   "description": "Compare Roku Express, Streaming Stick and Ultra models on picture quality, Wi-Fi, Ethernet, remote and price tier, and decide which Roku player fits your TV.",
+   "canonical": "https://iptv-usa8k.com/compare/roku-models",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/compare/google-tv-streamer-vs-chromecast",
+   "status": 200,
+   "h1": 1,
+   "title": "Google TV Streamer vs Chromecast: Is the Upgrade Worth It?",
+   "description": "Google TV Streamer vs Chromecast with Google TV compared on memory, storage, Ethernet, remote, smart home features and price, plus when you should keep your old one.",
+   "canonical": "https://iptv-usa8k.com/compare/google-tv-streamer-vs-chromecast",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 33
+  },
+  {
+   "route": "/compare/tablo-vs-hdhomerun",
+   "status": 200,
+   "h1": 1,
+   "title": "Tablo vs HDHomeRun: Which Antenna TV Box Should You Buy?",
+   "description": "Tablo vs HDHomeRun compared on ease of use, recording, guide costs, tuners, storage and app support, to help you pick an antenna TV setup for your home.",
+   "canonical": "https://iptv-usa8k.com/compare/tablo-vs-hdhomerun",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 33
+  },
+  {
+   "route": "/contact",
+   "status": 200,
+   "h1": 1,
+   "title": "Contact IPTVSubs8K Support | Setup Help &amp; Plan Questions",
+   "description": "Contact IPTVSubs8K for setup help, plan questions, trial requests or reseller inquiries. Tell us your device and player app so we can help faster.",
+   "canonical": "https://iptv-usa8k.com/contact",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 27
+  },
+  {
+   "route": "/faq",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV FAQ: Devices, Connections, Internet Speed &amp; Billing",
+   "description": "Answers to the questions new IPTV users ask most: which devices work, how connections and logins work, internet speed, travel, guide data, and how to get help.",
+   "canonical": "https://iptv-usa8k.com/faq",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/free-trial",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Free Trial: How to Test IPTVSubs8K Before You Buy",
+   "description": "How the IPTVSubs8K trial works: how to request it, what to test on your devices, and how to judge stability, guide accuracy and picture quality.",
+   "canonical": "https://iptv-usa8k.com/free-trial",
+   "robots": "noindex, follow",
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 29
+  },
+  {
+   "route": "/guides/4k-8k-iptv",
+   "status": 200,
+   "h1": 1,
+   "title": "4K and 8K IPTV Explained: Real Requirements vs Marketing",
+   "description": "What 4K and 8K IPTV streaming really needs: internet speed, HEVC and AV1 decoding, HDR, compatible devices, and how to check whether a &#x27;4K&#x27; channel is true 4K.",
+   "canonical": "https://iptv-usa8k.com/guides/4k-8k-iptv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/guides/android-tv-box",
+   "status": 200,
+   "h1": 1,
+   "title": "Android TV Box Buying Guide: Certified Boxes vs Cheap Clones",
+   "description": "How to choose a safe Android TV box: certified vs uncertified devices, how to spot fake specs and malware risks, which specs matter, and boxes vs sticks.",
+   "canonical": "https://iptv-usa8k.com/guides/android-tv-box",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/guides/how-to-choose-iptv-provider",
+   "status": 200,
+   "h1": 1,
+   "title": "How to Choose an IPTV Provider: Reviews, Tests &amp; Questions",
+   "description": "How to judge IPTV reviews and choose a provider: what to test during a trial, questions to ask before paying, and why top-10 lists are mostly ads.",
+   "canonical": "https://iptv-usa8k.com/guides/how-to-choose-iptv-provider",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/guides/firestick-downloader-codes",
+   "status": 200,
+   "h1": 1,
+   "title": "Firestick Downloader Codes: How They Work and How to Stay Safe",
+   "description": "What Firestick Downloader codes are, how to use one, how to check where it leads before installing, and why free code lists can put your device at risk.",
+   "canonical": "https://iptv-usa8k.com/guides/firestick-downloader-codes",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 30
+  },
+  {
+   "route": "/guides/iptv-encoder",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Encoder Explained: HDMI to IP, Codecs and Protocols",
+   "description": "What an IPTV encoder does, how HDMI-to-IP encoders work, H.264 vs H.265, RTMP, HLS, SRT and multicast, and how to choose one for hotels, venues or a campus.",
+   "canonical": "https://iptv-usa8k.com/guides/iptv-encoder",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 30
+  },
+  {
+   "route": "/guides/iptv-epg",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV EPG Explained: Fix an Empty or Wrong TV Guide",
+   "description": "How the IPTV TV guide (EPG) works, how to add an XMLTV link, and how to fix an empty guide, wrong times and channel matching problems.",
+   "canonical": "https://iptv-usa8k.com/guides/iptv-epg",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 29
+  },
+  {
+   "route": "/guides/free-live-tv-streaming",
+   "status": 200,
+   "h1": 1,
+   "title": "Free Live TV Streaming: Legal Apps and What They Include",
+   "description": "Where to watch free live TV legally: Pluto TV, Tubi, The Roku Channel, Samsung TV Plus and antennas, what they carry, what they leave out, and how to set them up.",
+   "canonical": "https://iptv-usa8k.com/guides/free-live-tv-streaming",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 33
+  },
+  {
+   "route": "/guides/hdhomerun",
+   "status": 200,
+   "h1": 1,
+   "title": "HDHomeRun Guide: How This Network TV Tuner Works and Setup",
+   "description": "What an HDHomeRun tuner does, how to connect it to an antenna and router, watching on TVs and phones, DVR options, and how to pick the right model.",
+   "canonical": "https://iptv-usa8k.com/guides/hdhomerun",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 33
+  },
+  {
+   "route": "/guides/iptv-box",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Box Guide: MAG, Formuler &amp; Android Boxes vs Sticks",
+   "description": "Do you need an IPTV box? Compare MAG and Formuler set-top boxes, Android TV boxes, and streaming sticks, plus the risks of cheap &#x27;fully loaded&#x27; boxes in the US.",
+   "canonical": "https://iptv-usa8k.com/guides/iptv-box",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/guides/is-iptv-legal-usa",
+   "status": 200,
+   "h1": 1,
+   "title": "Is IPTV Legal in the USA? What Viewers Should Know in 2026",
+   "description": "A plain-English look at IPTV legality in the US: when it&#x27;s legal, what makes a service unlicensed, the Protecting Lawful Streaming Act, and legal options.",
+   "canonical": "https://iptv-usa8k.com/guides/is-iptv-legal-usa",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/guides/iptv-local-channels",
+   "status": 200,
+   "h1": 1,
+   "title": "Streaming Services With Local Channels: Every Option Compared",
+   "description": "How to get ABC, CBS, NBC, FOX and PBS without cable: antennas, live TV streaming services, free apps, and what to check before relying on IPTV for local channels.",
+   "canonical": "https://iptv-usa8k.com/guides/iptv-local-channels",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 33
+  },
+  {
+   "route": "/guides/m3u-playlist",
+   "status": 200,
+   "h1": 1,
+   "title": "M3U Playlist vs Xtream Codes: How IPTV Logins Work",
+   "description": "What an M3U playlist is, how M3U and M3U8 differ, how Xtream Codes logins work, which one to use in your player, and how to keep your playlist link private.",
+   "canonical": "https://iptv-usa8k.com/guides/m3u-playlist",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/guides/m3u8-to-mp4",
+   "status": 200,
+   "h1": 1,
+   "title": "M3U8 to MP4: How to Convert a Video With FFmpeg or VLC",
+   "description": "Convert an M3U8 stream to an MP4 file using FFmpeg or VLC: exact commands, common errors, and when conversion won&#x27;t work, including DRM and copyright limits.",
+   "canonical": "https://iptv-usa8k.com/guides/m3u8-to-mp4",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/guides/best-movie-apps-firestick",
+   "status": 200,
+   "h1": 1,
+   "title": "Best Movie Apps for Firestick: Free and Paid Legal Options",
+   "description": "The best legal movie apps for Firestick: free services like Tubi and Pluto TV, library apps like Kanopy and Hoopla, paid options, and which apps to avoid.",
+   "canonical": "https://iptv-usa8k.com/guides/best-movie-apps-firestick",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/guides/fire-stick-non-smart-tv",
+   "status": 200,
+   "h1": 1,
+   "title": "Fire Stick on a Non-Smart TV: What You Need and How to Set It Up",
+   "description": "How to use a Fire Stick or other streaming stick on a non-smart TV: what the HDMI port does, older TVs without HDMI, adapters, power and fixes for common problems.",
+   "canonical": "https://iptv-usa8k.com/guides/fire-stick-non-smart-tv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/guides/iptv-scams",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Scams: 10 Red Flags and How to Find a Legit IPTV Service",
+   "description": "How IPTV scams work and how to avoid them: fake reviews, lifetime deals, crypto-only payments, cloned activation sites, and a checklist for legit services.",
+   "canonical": "https://iptv-usa8k.com/guides/iptv-scams",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/guides/sports-on-iptv",
+   "status": 200,
+   "h1": 1,
+   "title": "Watching Sports on IPTV: Delay, Frame Rate &amp; Setup Tips",
+   "description": "Get the smoothest live sports on IPTV: why streams run behind cable, how to fix choppy 60 fps motion, and how to prepare your network for big games.",
+   "canonical": "https://iptv-usa8k.com/guides/sports-on-iptv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/guides/what-is-iptv",
+   "status": 200,
+   "h1": 1,
+   "title": "What Is IPTV and How Does It Work? A Plain-English Guide",
+   "description": "IPTV explained simply: how TV travels over the internet, what M3U, Xtream Codes and EPG mean, what you need at home, and how it differs from cable.",
+   "canonical": "https://iptv-usa8k.com/guides/what-is-iptv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 32
+  },
+  {
+   "route": "/",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Service for US Homes: Plans, Setup &amp; Support | IPTVSubs8K",
+   "description": "IPTVSubs8K is an IPTV service for US homes. Compare 3, 6 and 12-month plans, order on WhatsApp, and follow setup guides for Fire TV, Google TV, Samsung, LG and more.",
+   "canonical": "https://iptv-usa8k.com",
+   "robots": "index, follow",
+   "schema": [
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 42
+  },
+  {
+   "route": "/pricing",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Subscription Plans &amp; Pricing | IPTVSubs8K",
+   "description": "Compare IPTVSubs8K subscription plans: plan lengths, simultaneous connections, what&#x27;s included, how ordering works, and answers to common billing questions.",
+   "canonical": "https://iptv-usa8k.com/pricing",
+   "robots": "noindex, follow",
+   "schema": [
+    "BreadcrumbList",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 28
+  },
+  {
+   "route": "/privacy",
+   "status": 200,
+   "h1": 1,
+   "title": "Privacy Policy | IPTVSubs8K",
+   "description": "How the IPTVSubs8K website handles your information: what we collect through the contact form and orders, how it&#x27;s used, analytics, cookies, and your choices.",
+   "canonical": "https://iptv-usa8k.com/privacy",
+   "robots": "noindex, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 27
+  },
+  {
+   "route": "/refund-policy",
+   "status": 200,
+   "h1": 1,
+   "title": "Refund Policy | IPTVSubs8K",
+   "description": "The IPTVSubs8K refund policy: when refunds apply, how to request one, what information we need, and how long processing takes.",
+   "canonical": "https://iptv-usa8k.com/refund-policy",
+   "robots": "noindex, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 27
+  },
+  {
+   "route": "/reseller",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Reseller Program &amp; Panel | IPTVSubs8K",
+   "description": "Information about the IPTVSubs8K reseller program: how reseller panels and credits work, who the program suits, and the responsibilities that come with reselling.",
+   "canonical": "https://iptv-usa8k.com/reseller",
+   "robots": "noindex, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 27
+  },
+  {
+   "route": "/setup/android-phone",
+   "status": 200,
+   "h1": 1,
+   "title": "Best IPTV Player for Android Phones &amp; Tablets (Setup Guide)",
+   "description": "Set up IPTV on Android phones and tablets: picking a player from Google Play, adding your login, saving mobile data, and casting to a TV with Chromecast.",
+   "canonical": "https://iptv-usa8k.com/setup/android-phone",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 29
+  },
+  {
+   "route": "/setup/android-tv",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV on Android TV &amp; Google TV: Shield, Chromecast, Sony, TCL",
+   "description": "Set up IPTV on Android TV and Google TV devices, including Chromecast with Google TV, Nvidia Shield, Sony, TCL and Hisense TVs, with Play Store and sideload options.",
+   "canonical": "https://iptv-usa8k.com/setup/android-tv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/setup/apple-tv-iphone",
+   "status": 200,
+   "h1": 1,
+   "title": "Best IPTV App for Apple TV, iPhone &amp; iPad: Setup Guide",
+   "description": "How to watch IPTV on Apple TV 4K, iPhone and iPad: choosing a tvOS or iOS player, adding Xtream Codes or M3U logins, iCloud sync, and AirPlay to other TVs.",
+   "canonical": "https://iptv-usa8k.com/setup/apple-tv-iphone",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 29
+  },
+  {
+   "route": "/setup/firestick",
+   "status": 200,
+   "h1": 1,
+   "title": "How to Set Up IPTV on a Fire TV Stick (2026 Guide)",
+   "description": "Install an IPTV player on Fire TV Stick, Fire TV Cube or a Fire TV smart TV using Downloader, enable unknown apps, and add your login in about 10 minutes.",
+   "canonical": "https://iptv-usa8k.com/setup/firestick",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/setup/formuler",
+   "status": 200,
+   "h1": 1,
+   "title": "Formuler IPTV Box Setup: MyTVOnline, Portals &amp; Xtream Logins",
+   "description": "Set up a Formuler IPTV box: add a portal or Xtream login in MyTVOnline, load the guide, tune playback settings, and fix common connection and channel errors.",
+   "canonical": "https://iptv-usa8k.com/setup/formuler",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/setup/lg-tv",
+   "status": 200,
+   "h1": 1,
+   "title": "How to Set Up IPTV on an LG Smart TV (webOS Guide)",
+   "description": "Set up IPTV on LG webOS smart TVs: which players are in the LG Content Store, how to link a playlist, and picture settings for live TV.",
+   "canonical": "https://iptv-usa8k.com/setup/lg-tv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 30
+  },
+  {
+   "route": "/setup/mag-box",
+   "status": 200,
+   "h1": 1,
+   "title": "MAG Box Setup: Portal URL, MAC Address and Common Fixes",
+   "description": "Set up a MAG IPTV box step by step: register the MAC address, add your portal URL, connect by Ethernet or Wi-Fi, and fix portal, loading and login errors.",
+   "canonical": "https://iptv-usa8k.com/setup/mag-box",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/setup/roku",
+   "status": 200,
+   "h1": 1,
+   "title": "Best IPTV App for Roku? What Actually Works in 2026",
+   "description": "Roku is the hardest platform for IPTV. Here&#x27;s what works: Roku Channel Store players, screen mirroring, AirPlay, and when a cheap stick is the better fix.",
+   "canonical": "https://iptv-usa8k.com/setup/roku",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 30
+  },
+  {
+   "route": "/setup/samsung-tv",
+   "status": 200,
+   "h1": 1,
+   "title": "Best IPTV App for Samsung TV &amp; How to Set It Up (Tizen)",
+   "description": "Which IPTV players work on Samsung Tizen smart TVs, how MAC-address activation works, and step-by-step setup for apps from the Samsung Smart Hub store.",
+   "canonical": "https://iptv-usa8k.com/setup/samsung-tv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 29
+  },
+  {
+   "route": "/setup/windows-mac",
+   "status": 200,
+   "h1": 1,
+   "title": "Best IPTV Player for Windows &amp; Mac: VLC, Kodi &amp; More",
+   "description": "How to watch IPTV on a Windows PC or Mac: open an M3U link in VLC in under a minute, use Kodi for a full TV guide, or choose a dedicated desktop player.",
+   "canonical": "https://iptv-usa8k.com/setup/windows-mac",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 29
+  },
+  {
+   "route": "/setup",
+   "status": 200,
+   "h1": 1,
+   "title": "How to Set Up IPTV on Any Device: Step-by-Step Guides",
+   "description": "Device-by-device IPTV setup guides for Fire TV Stick, Android TV, Google TV, Samsung, LG, Roku, Apple TV, iPhone, Android phones, Windows and Mac.",
+   "canonical": "https://iptv-usa8k.com/setup",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/terms",
+   "status": 200,
+   "h1": 1,
+   "title": "Terms of Service | IPTVSubs8K",
+   "description": "The terms that apply when you use the IPTVSubs8K website and subscription: accounts, acceptable use, connection limits, service availability and liability.",
+   "canonical": "https://iptv-usa8k.com/terms",
+   "robots": "noindex, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 27
+  },
+  {
+   "route": "/troubleshooting/iptv-buffering",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Buffering? 12 Fixes That Actually Work (In Order)",
+   "description": "Fix IPTV buffering and freezing step by step: find the real bottleneck, then fix Wi-Fi, device, player buffer and stream settings in the order most likely to help.",
+   "canonical": "https://iptv-usa8k.com/troubleshooting/iptv-buffering",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 30
+  },
+  {
+   "route": "/troubleshooting/iptv-not-working",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Not Working? Fix Login Errors, Black Screens &amp; Empty Lists",
+   "description": "What common IPTV error messages mean and how to fix them: authorization failed, 401, 403, 404, &#x27;max connections&#x27;, black screen, no audio, and an empty guide.",
+   "canonical": "https://iptv-usa8k.com/troubleshooting/iptv-not-working",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 31
+  },
+  {
+   "route": "/troubleshooting/vpn-for-firestick",
+   "status": 200,
+   "h1": 1,
+   "title": "VPN for Firestick: How to Install, Test and Choose One",
+   "description": "How to choose and install a VPN on a Firestick, what free plans really include, which settings keep streams fast, and how to fix a VPN that won&#x27;t connect.",
+   "canonical": "https://iptv-usa8k.com/troubleshooting/vpn-for-firestick",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 28
+  },
+  {
+   "route": "/troubleshooting/vpn-for-iptv",
+   "status": 200,
+   "h1": 1,
+   "title": "Best VPN for IPTV: When You Need One (and When Not)",
+   "description": "Do you need a VPN for IPTV? How to tell if your internet provider throttles streams, what to look for in a Firestick VPN, and why free VPNs often disappoint.",
+   "canonical": "https://iptv-usa8k.com/troubleshooting/vpn-for-iptv",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Article",
+    "FAQPage",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 28
+  },
+  {
+   "route": "/troubleshooting",
+   "status": 200,
+   "h1": 1,
+   "title": "IPTV Troubleshooting: Fix Buffering, Errors &amp; Login Problems",
+   "description": "Start here when IPTV misbehaves. A two-minute triage to tell whether the problem is your device, your network or the stream, then the right fix guide.",
+   "canonical": "https://iptv-usa8k.com/troubleshooting",
+   "robots": "index, follow",
+   "schema": [
+    "BreadcrumbList",
+    "Organization",
+    "WebSite"
+   ],
+   "internalLinks": 30
+  }
+ ]
+}

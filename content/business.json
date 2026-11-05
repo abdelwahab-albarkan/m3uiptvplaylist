@@ -1,0 +1,116 @@
+{
+  "_note": "Real, owner-confirmed business facts only. Leave null until confirmed. Gated pages stay noindex while their fields are null.",
+  "brand": "IPTV M3U Playlist",
+  "domain": "iptvm3uplaylist.com",
+  "siteUrl": "https://iptvm3uplaylist.com",
+  "email": "support@streamb4.com",
+  "whatsapp": "+212625218443",
+  "telegram": null,
+  "supportHours": "24/7 Priority Technical Support",
+  "plans": [
+    {
+      "id": "3m-1a",
+      "name": "3 months, 1 account",
+      "months": 3,
+      "accounts": 1,
+      "priceUsd": 39.99
+    },
+    {
+      "id": "3m-2a",
+      "name": "3 months, 2 accounts",
+      "months": 3,
+      "accounts": 2,
+      "priceUsd": 59.99
+    },
+    {
+      "id": "3m-3a",
+      "name": "3 months, 3 accounts",
+      "months": 3,
+      "accounts": 3,
+      "priceUsd": 79.99
+    },
+    {
+      "id": "3m-4a",
+      "name": "3 months, 4 accounts",
+      "months": 3,
+      "accounts": 4,
+      "priceUsd": 99.99
+    },
+    {
+      "id": "6m-1a",
+      "name": "6 months, 1 account",
+      "months": 6,
+      "accounts": 1,
+      "priceUsd": 56.99
+    },
+    {
+      "id": "6m-2a",
+      "name": "6 months, 2 accounts",
+      "months": 6,
+      "accounts": 2,
+      "priceUsd": 84.99
+    },
+    {
+      "id": "6m-3a",
+      "name": "6 months, 3 accounts",
+      "months": 6,
+      "accounts": 3,
+      "priceUsd": 109.99
+    },
+    {
+      "id": "6m-4a",
+      "name": "6 months, 4 accounts",
+      "months": 6,
+      "accounts": 4,
+      "priceUsd": 134.99
+    },
+    {
+      "id": "12m-1a",
+      "name": "12 months, 1 account",
+      "months": 12,
+      "accounts": 1,
+      "priceUsd": 79.99
+    },
+    {
+      "id": "12m-2a",
+      "name": "12 months, 2 accounts",
+      "months": 12,
+      "accounts": 2,
+      "priceUsd": 119.99
+    },
+    {
+      "id": "12m-3a",
+      "name": "12 months, 3 accounts",
+      "months": 12,
+      "accounts": 3,
+      "priceUsd": 149.99
+    },
+    {
+      "id": "12m-4a",
+      "name": "12 months, 4 accounts",
+      "months": 12,
+      "accounts": 4,
+      "priceUsd": 179.99
+    }
+  ],
+  "trial": {
+    "available": true,
+    "hours": 24,
+    "howToRequest": "Contact our support team on WhatsApp or email with your streaming device model and preferred player application (TiviMate, Smarters, IBO, etc.). Our technical team activates your 24-hour test line promptly."
+  },
+  "paymentMethods": null,
+  "refundPolicy": "We offer a 7-day technical satisfaction policy. If you encounter persistent technical streaming issues that our support team cannot resolve on your compatible device, you are eligible for a prompt prorated refund. Contact us directly via WhatsApp or email with your order details.",
+  "checkoutMethod": "Order through WhatsApp",
+  "contentRightsConfirmed": true,
+  "legalEntity": "IPTV M3U Playlist LLC",
+  "reseller": {
+    "available": true,
+    "details": "We offer multi-server IPTV reseller panels and credit packages across 47+ top infrastructures, including Trex, Strong IPTV, Mega OTT, Crystal OTT, Magnum, King 365, Cobra, and premium OTT networks. Resellers get full access to manage clients, sub-resellers, trials, custom bouquets, and M3U/Xtream Codes lines. Contact us directly on WhatsApp to discuss credit tiers and request a test panel."
+  },
+  "socials": {
+    "facebook": "https://web.facebook.com/profile.php?id=61591545360371",
+    "instagram": "https://www.instagram.com/streamb4tv/",
+    "x": "https://x.com/streamb4t",
+    "discord": "https://discord.gg/BFr5HSZfk"
+  }
+}

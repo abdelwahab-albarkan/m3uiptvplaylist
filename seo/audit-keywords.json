@@ -1,0 +1,1516 @@
+{
+  "summary": {
+    "total": 74,
+    "below2": 72,
+    "above4": 0,
+    "missingTitle": 33,
+    "missingH1": 38,
+    "missingH2": 66,
+    "missingH3": 74
+  },
+  "below2": [
+    {
+      "file": "about.md",
+      "path": "/about",
+      "pk": "about iptv m3u playlist",
+      "density": 0,
+      "words": 600,
+      "occurrences": 0
+    },
+    {
+      "file": "apps-kodi.md",
+      "path": "/apps/kodi",
+      "pk": "kodi iptv addon",
+      "density": 0,
+      "words": 613,
+      "occurrences": 0
+    },
+    {
+      "file": "apps-smarters.md",
+      "path": "/apps/iptv-smarters-pro",
+      "pk": "iptv smarters pro",
+      "density": 0.96,
+      "words": 628,
+      "occurrences": 2
+    },
+    {
+      "file": "apps-tivimate.md",
+      "path": "/apps/tivimate",
+      "pk": "tivimate iptv player",
+      "density": 0,
+      "words": 668,
+      "occurrences": 0
+    },
+    {
+      "file": "apps-web-player.md",
+      "path": "/apps/iptv-web-player",
+      "pk": "iptv web player",
+      "density": 0,
+      "words": 749,
+      "occurrences": 0
+    },
+    {
+      "file": "apps.md",
+      "path": "/apps",
+      "pk": "best iptv player",
+      "density": 0,
+      "words": 562,
+      "occurrences": 0
+    },
+    {
+      "file": "blog-best-players.md",
+      "path": "/blog/best-m3u-iptv-playlist-players",
+      "pk": "best m3u iptv playlist players",
+      "density": 0.47,
+      "words": 1058,
+      "occurrences": 1
+    },
+    {
+      "file": "blog-buffering-fix.md",
+      "path": "/blog/m3u-playlist-buffering-fix",
+      "pk": "m3u playlist buffering fix",
+      "density": 0.35,
+      "words": 1156,
+      "occurrences": 1
+    },
+    {
+      "file": "blog-firestick-m3u.md",
+      "path": "/blog/m3u-iptv-playlist-firestick-setup",
+      "pk": "m3u playlist for firestick",
+      "density": 0.38,
+      "words": 1048,
+      "occurrences": 1
+    },
+    {
+      "file": "blog-free-vs-premium.md",
+      "path": "/blog/free-vs-premium-m3u-iptv-playlist",
+      "pk": "free m3u playlist vs premium",
+      "density": 0.48,
+      "words": 1052,
+      "occurrences": 1
+    },
+    {
+      "file": "blog-m3u-vs-xtream-codes.md",
+      "path": "/blog/m3u-playlist-url-vs-xtream-codes",
+      "pk": "m3u playlist url vs xtream codes",
+      "density": 0.6,
+      "words": 1000,
+      "occurrences": 1
+    },
+    {
+      "file": "blog-setup-m3u.md",
+      "path": "/blog/how-to-setup-m3u-iptv-playlist",
+      "pk": "how to setup m3u iptv playlist",
+      "density": 0.45,
+      "words": 1326,
+      "occurrences": 1
+    },
+    {
+      "file": "blog-smart-tv-m3u.md",
+      "path": "/blog/m3u-iptv-playlist-for-smart-tv",
+      "pk": "m3u playlist on smart tv",
+      "density": 0.45,
+      "words": 1106,
+      "occurrences": 1
+    },
+    {
+      "file": "blog-uk-m3u.md",
+      "path": "/blog/best-uk-m3u-iptv-playlist",
+      "pk": "m3u iptv playlist uk",
+      "density": 0.4,
+      "words": 1001,
+      "occurrences": 1
+    },
+    {
+      "file": "blog.md",
+      "path": "/blog",
+      "pk": "m3u playlist blog",
+      "density": 0.41,
+      "words": 738,
+      "occurrences": 1
+    },
+    {
+      "file": "compare-apple-fire.md",
+      "path": "/compare/apple-tv-vs-fire-stick",
+      "pk": "apple tv vs fire stick",
+      "density": 0,
+      "words": 770,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-chromecast-roku.md",
+      "path": "/compare/chromecast-vs-roku",
+      "pk": "chromecast vs roku",
+      "density": 0,
+      "words": 703,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-cube-stick.md",
+      "path": "/compare/fire-tv-cube-vs-stick",
+      "pk": "fire cube vs fire stick",
+      "density": 0,
+      "words": 741,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-firestick-models.md",
+      "path": "/compare/firestick-models",
+      "pk": "fire stick 4k vs 4k max",
+      "density": 0,
+      "words": 796,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-google-android.md",
+      "path": "/compare/google-tv-vs-android-tv",
+      "pk": "google tv vs android tv",
+      "density": 0,
+      "words": 756,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-google-fire.md",
+      "path": "/compare/google-tv-vs-fire-tv",
+      "pk": "google tv vs fire tv",
+      "density": 0,
+      "words": 796,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-iptv-cable.md",
+      "path": "/compare/iptv-vs-cable",
+      "pk": "cable alternatives",
+      "density": 0,
+      "words": 665,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-live-tv-services.md",
+      "path": "/compare/live-tv-streaming-services",
+      "pk": "cheapest live tv streaming",
+      "density": 0,
+      "words": 859,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-roku-fire.md",
+      "path": "/compare/roku-vs-fire-stick",
+      "pk": "roku vs firestick",
+      "density": 0,
+      "words": 754,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-roku-models.md",
+      "path": "/compare/roku-models",
+      "pk": "roku stick vs roku ultra",
+      "density": 0,
+      "words": 684,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-streamer-chromecast.md",
+      "path": "/compare/google-tv-streamer-vs-chromecast",
+      "pk": "google tv streamer vs chromecast",
+      "density": 0,
+      "words": 756,
+      "occurrences": 0
+    },
+    {
+      "file": "compare-tablo-hdhomerun.md",
+      "path": "/compare/tablo-vs-hdhomerun",
+      "pk": "tablo vs hdhomerun",
+      "density": 0,
+      "words": 739,
+      "occurrences": 0
+    },
+    {
+      "file": "contact.md",
+      "path": "/contact",
+      "pk": "iptv customer support",
+      "density": 0,
+      "words": 270,
+      "occurrences": 0
+    },
+    {
+      "file": "faq.md",
+      "path": "/faq",
+      "pk": "iptv questions",
+      "density": 0,
+      "words": 514,
+      "occurrences": 0
+    },
+    {
+      "file": "free-trial.md",
+      "path": "/free-trial",
+      "pk": "iptv usa free trial",
+      "density": 0.39,
+      "words": 1035,
+      "occurrences": 1
+    },
+    {
+      "file": "guide-4k-8k.md",
+      "path": "/guides/4k-8k-iptv",
+      "pk": "4k iptv service",
+      "density": 0,
+      "words": 656,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-android-tv-box.md",
+      "path": "/guides/android-tv-box",
+      "pk": "android tv box",
+      "density": 1.12,
+      "words": 805,
+      "occurrences": 3
+    },
+    {
+      "file": "guide-choose-provider.md",
+      "path": "/guides/how-to-choose-iptv-provider",
+      "pk": "iptv reviews",
+      "density": 0.61,
+      "words": 658,
+      "occurrences": 2
+    },
+    {
+      "file": "guide-downloader-codes.md",
+      "path": "/guides/firestick-downloader-codes",
+      "pk": "firestick downloader codes",
+      "density": 0,
+      "words": 783,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-encoder.md",
+      "path": "/guides/iptv-encoder",
+      "pk": "iptv encoder",
+      "density": 0.26,
+      "words": 773,
+      "occurrences": 1
+    },
+    {
+      "file": "guide-epg.md",
+      "path": "/guides/iptv-epg",
+      "pk": "iptv epg",
+      "density": 0,
+      "words": 652,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-free-live-tv.md",
+      "path": "/guides/free-live-tv-streaming",
+      "pk": "free live tv streaming",
+      "density": 0.51,
+      "words": 778,
+      "occurrences": 1
+    },
+    {
+      "file": "guide-hdhomerun.md",
+      "path": "/guides/hdhomerun",
+      "pk": "hd homerun",
+      "density": 0,
+      "words": 757,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-iptv-box.md",
+      "path": "/guides/iptv-box",
+      "pk": "iptv box",
+      "density": 1.13,
+      "words": 707,
+      "occurrences": 4
+    },
+    {
+      "file": "guide-iptv-servers.md",
+      "path": "/guides/iptv-servers",
+      "pk": "best iptv server",
+      "density": 0.49,
+      "words": 1220,
+      "occurrences": 2
+    },
+    {
+      "file": "guide-legal.md",
+      "path": "/guides/is-iptv-legal-usa",
+      "pk": "legal iptv in usa",
+      "density": 0,
+      "words": 661,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-local-channels.md",
+      "path": "/guides/iptv-local-channels",
+      "pk": "streaming services with local channels",
+      "density": 0,
+      "words": 655,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-m3u.md",
+      "path": "/guides/m3u-playlist",
+      "pk": "m3u playlist",
+      "density": 0.62,
+      "words": 644,
+      "occurrences": 2
+    },
+    {
+      "file": "guide-m3u8-mp4.md",
+      "path": "/guides/m3u8-to-mp4",
+      "pk": "m3u8 to mp4",
+      "density": 0,
+      "words": 698,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-movie-apps.md",
+      "path": "/guides/best-movie-apps-firestick",
+      "pk": "best movie apps for firestick",
+      "density": 0,
+      "words": 762,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-non-smart-tv.md",
+      "path": "/guides/fire-stick-non-smart-tv",
+      "pk": "amazon fire stick non smart tv",
+      "density": 0,
+      "words": 780,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-scams.md",
+      "path": "/guides/iptv-scams",
+      "pk": "legit iptv service",
+      "density": 0.45,
+      "words": 674,
+      "occurrences": 1
+    },
+    {
+      "file": "guide-sports.md",
+      "path": "/guides/sports-on-iptv",
+      "pk": "iptv for sports",
+      "density": 0,
+      "words": 629,
+      "occurrences": 0
+    },
+    {
+      "file": "guide-what-is-iptv.md",
+      "path": "/guides/what-is-iptv",
+      "pk": "what is iptv",
+      "density": 0,
+      "words": 707,
+      "occurrences": 0
+    },
+    {
+      "file": "home.md",
+      "path": "/",
+      "pk": "m3u iptv playlist",
+      "density": 1.8,
+      "words": 3327,
+      "occurrences": 20
+    },
+    {
+      "file": "pricing.md",
+      "path": "/pricing",
+      "pk": "iptv subscription service",
+      "density": 0,
+      "words": 515,
+      "occurrences": 0
+    },
+    {
+      "file": "privacy.md",
+      "path": "/privacy",
+      "pk": "privacy policy",
+      "density": 0,
+      "words": 335,
+      "occurrences": 0
+    },
+    {
+      "file": "refund-policy.md",
+      "path": "/refund-policy",
+      "pk": "iptv refund policy",
+      "density": 0,
+      "words": 260,
+      "occurrences": 0
+    },
+    {
+      "file": "reseller-servers.md",
+      "path": "/reseller/iptv-servers",
+      "pk": "best iptv panel software",
+      "density": 0.31,
+      "words": 1293,
+      "occurrences": 1
+    },
+    {
+      "file": "reseller.md",
+      "path": "/reseller",
+      "pk": "iptv reseller",
+      "density": 0.72,
+      "words": 1380,
+      "occurrences": 5
+    },
+    {
+      "file": "setup-android-phone.md",
+      "path": "/setup/android-phone",
+      "pk": "iptv player for android",
+      "density": 0,
+      "words": 610,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-android-tv.md",
+      "path": "/setup/android-tv",
+      "pk": "iptv android tv",
+      "density": 0,
+      "words": 696,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-apple.md",
+      "path": "/setup/apple-tv-iphone",
+      "pk": "best iptv app for apple tv",
+      "density": 0,
+      "words": 637,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-firestick.md",
+      "path": "/setup/firestick",
+      "pk": "iptv on firestick",
+      "density": 0,
+      "words": 943,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-formuler.md",
+      "path": "/setup/formuler",
+      "pk": "formuler iptv box",
+      "density": 0,
+      "words": 749,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-lg-tv.md",
+      "path": "/setup/lg-tv",
+      "pk": "iptv on lg tv",
+      "density": 0,
+      "words": 653,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-mag-box.md",
+      "path": "/setup/mag-box",
+      "pk": "mag iptv box",
+      "density": 0,
+      "words": 692,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-roku.md",
+      "path": "/setup/roku",
+      "pk": "best iptv app for roku",
+      "density": 0,
+      "words": 678,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-samsung-tv.md",
+      "path": "/setup/samsung-tv",
+      "pk": "best iptv app for samsung tv",
+      "density": 0,
+      "words": 704,
+      "occurrences": 0
+    },
+    {
+      "file": "setup-windows-mac.md",
+      "path": "/setup/windows-mac",
+      "pk": "best iptv player for windows",
+      "density": 0,
+      "words": 572,
+      "occurrences": 0
+    },
+    {
+      "file": "setup.md",
+      "path": "/setup",
+      "pk": "how to set up iptv",
+      "density": 0,
+      "words": 500,
+      "occurrences": 0
+    },
+    {
+      "file": "terms.md",
+      "path": "/terms",
+      "pk": "terms of service",
+      "density": 0,
+      "words": 299,
+      "occurrences": 0
+    },
+    {
+      "file": "troubleshooting-buffering.md",
+      "path": "/troubleshooting/iptv-buffering",
+      "pk": "iptv buffering",
+      "density": 0,
+      "words": 739,
+      "occurrences": 0
+    },
+    {
+      "file": "troubleshooting-not-working.md",
+      "path": "/troubleshooting/iptv-not-working",
+      "pk": "iptv not working",
+      "density": 0,
+      "words": 638,
+      "occurrences": 0
+    },
+    {
+      "file": "troubleshooting-vpn-firestick.md",
+      "path": "/troubleshooting/vpn-for-firestick",
+      "pk": "vpn for firestick",
+      "density": 0,
+      "words": 803,
+      "occurrences": 0
+    },
+    {
+      "file": "troubleshooting-vpn.md",
+      "path": "/troubleshooting/vpn-for-iptv",
+      "pk": "best vpn for iptv",
+      "density": 0,
+      "words": 723,
+      "occurrences": 0
+    },
+    {
+      "file": "troubleshooting.md",
+      "path": "/troubleshooting",
+      "pk": "iptv troubleshooting",
+      "density": 0,
+      "words": 500,
+      "occurrences": 0
+    }
+  ],
+  "above4": [],
+  "missingTitle": [
+    {
+      "file": "about.md",
+      "pk": "about iptv m3u playlist"
+    },
+    {
+      "file": "apps-kodi.md",
+      "pk": "kodi iptv addon"
+    },
+    {
+      "file": "apps-tivimate.md",
+      "pk": "tivimate iptv player"
+    },
+    {
+      "file": "blog-buffering-fix.md",
+      "pk": "m3u playlist buffering fix"
+    },
+    {
+      "file": "blog-firestick-m3u.md",
+      "pk": "m3u playlist for firestick"
+    },
+    {
+      "file": "blog-free-vs-premium.md",
+      "pk": "free m3u playlist vs premium"
+    },
+    {
+      "file": "blog-m3u-vs-xtream-codes.md",
+      "pk": "m3u playlist url vs xtream codes"
+    },
+    {
+      "file": "blog-setup-m3u.md",
+      "pk": "how to setup m3u iptv playlist"
+    },
+    {
+      "file": "blog-smart-tv-m3u.md",
+      "pk": "m3u playlist on smart tv"
+    },
+    {
+      "file": "blog-uk-m3u.md",
+      "pk": "m3u iptv playlist uk"
+    },
+    {
+      "file": "blog.md",
+      "pk": "m3u playlist blog"
+    },
+    {
+      "file": "compare-cube-stick.md",
+      "pk": "fire cube vs fire stick"
+    },
+    {
+      "file": "compare-firestick-models.md",
+      "pk": "fire stick 4k vs 4k max"
+    },
+    {
+      "file": "compare-iptv-cable.md",
+      "pk": "cable alternatives"
+    },
+    {
+      "file": "compare-roku-fire.md",
+      "pk": "roku vs firestick"
+    },
+    {
+      "file": "contact.md",
+      "pk": "iptv customer support"
+    },
+    {
+      "file": "faq.md",
+      "pk": "iptv questions"
+    },
+    {
+      "file": "free-trial.md",
+      "pk": "iptv usa free trial"
+    },
+    {
+      "file": "guide-4k-8k.md",
+      "pk": "4k iptv service"
+    },
+    {
+      "file": "guide-choose-provider.md",
+      "pk": "iptv reviews"
+    },
+    {
+      "file": "guide-hdhomerun.md",
+      "pk": "hd homerun"
+    },
+    {
+      "file": "guide-iptv-servers.md",
+      "pk": "best iptv server"
+    },
+    {
+      "file": "guide-legal.md",
+      "pk": "legal iptv in usa"
+    },
+    {
+      "file": "guide-non-smart-tv.md",
+      "pk": "amazon fire stick non smart tv"
+    },
+    {
+      "file": "guide-sports.md",
+      "pk": "iptv for sports"
+    },
+    {
+      "file": "home.md",
+      "pk": "m3u iptv playlist"
+    },
+    {
+      "file": "pricing.md",
+      "pk": "iptv subscription service"
+    },
+    {
+      "file": "refund-policy.md",
+      "pk": "iptv refund policy"
+    },
+    {
+      "file": "reseller-servers.md",
+      "pk": "best iptv panel software"
+    },
+    {
+      "file": "setup-android-tv.md",
+      "pk": "iptv android tv"
+    },
+    {
+      "file": "setup-firestick.md",
+      "pk": "iptv on firestick"
+    },
+    {
+      "file": "setup-lg-tv.md",
+      "pk": "iptv on lg tv"
+    },
+    {
+      "file": "setup-mag-box.md",
+      "pk": "mag iptv box"
+    }
+  ],
+  "missingH1": [
+    {
+      "file": "apps-kodi.md",
+      "pk": "kodi iptv addon"
+    },
+    {
+      "file": "apps-tivimate.md",
+      "pk": "tivimate iptv player"
+    },
+    {
+      "file": "blog-buffering-fix.md",
+      "pk": "m3u playlist buffering fix"
+    },
+    {
+      "file": "blog-firestick-m3u.md",
+      "pk": "m3u playlist for firestick"
+    },
+    {
+      "file": "blog-setup-m3u.md",
+      "pk": "how to setup m3u iptv playlist"
+    },
+    {
+      "file": "blog-smart-tv-m3u.md",
+      "pk": "m3u playlist on smart tv"
+    },
+    {
+      "file": "blog-uk-m3u.md",
+      "pk": "m3u iptv playlist uk"
+    },
+    {
+      "file": "blog.md",
+      "pk": "m3u playlist blog"
+    },
+    {
+      "file": "compare-cube-stick.md",
+      "pk": "fire cube vs fire stick"
+    },
+    {
+      "file": "compare-firestick-models.md",
+      "pk": "fire stick 4k vs 4k max"
+    },
+    {
+      "file": "compare-roku-fire.md",
+      "pk": "roku vs firestick"
+    },
+    {
+      "file": "compare-roku-models.md",
+      "pk": "roku stick vs roku ultra"
+    },
+    {
+      "file": "contact.md",
+      "pk": "iptv customer support"
+    },
+    {
+      "file": "faq.md",
+      "pk": "iptv questions"
+    },
+    {
+      "file": "free-trial.md",
+      "pk": "iptv usa free trial"
+    },
+    {
+      "file": "guide-4k-8k.md",
+      "pk": "4k iptv service"
+    },
+    {
+      "file": "guide-choose-provider.md",
+      "pk": "iptv reviews"
+    },
+    {
+      "file": "guide-hdhomerun.md",
+      "pk": "hd homerun"
+    },
+    {
+      "file": "guide-iptv-servers.md",
+      "pk": "best iptv server"
+    },
+    {
+      "file": "guide-legal.md",
+      "pk": "legal iptv in usa"
+    },
+    {
+      "file": "guide-local-channels.md",
+      "pk": "streaming services with local channels"
+    },
+    {
+      "file": "guide-non-smart-tv.md",
+      "pk": "amazon fire stick non smart tv"
+    },
+    {
+      "file": "guide-scams.md",
+      "pk": "legit iptv service"
+    },
+    {
+      "file": "guide-sports.md",
+      "pk": "iptv for sports"
+    },
+    {
+      "file": "pricing.md",
+      "pk": "iptv subscription service"
+    },
+    {
+      "file": "refund-policy.md",
+      "pk": "iptv refund policy"
+    },
+    {
+      "file": "reseller-servers.md",
+      "pk": "best iptv panel software"
+    },
+    {
+      "file": "setup-android-phone.md",
+      "pk": "iptv player for android"
+    },
+    {
+      "file": "setup-android-tv.md",
+      "pk": "iptv android tv"
+    },
+    {
+      "file": "setup-apple.md",
+      "pk": "best iptv app for apple tv"
+    },
+    {
+      "file": "setup-firestick.md",
+      "pk": "iptv on firestick"
+    },
+    {
+      "file": "setup-formuler.md",
+      "pk": "formuler iptv box"
+    },
+    {
+      "file": "setup-lg-tv.md",
+      "pk": "iptv on lg tv"
+    },
+    {
+      "file": "setup-roku.md",
+      "pk": "best iptv app for roku"
+    },
+    {
+      "file": "setup-samsung-tv.md",
+      "pk": "best iptv app for samsung tv"
+    },
+    {
+      "file": "setup-windows-mac.md",
+      "pk": "best iptv player for windows"
+    },
+    {
+      "file": "setup.md",
+      "pk": "how to set up iptv"
+    },
+    {
+      "file": "troubleshooting-vpn.md",
+      "pk": "best vpn for iptv"
+    }
+  ],
+  "missingH2": [
+    {
+      "file": "about.md",
+      "pk": "about iptv m3u playlist"
+    },
+    {
+      "file": "apps-kodi.md",
+      "pk": "kodi iptv addon"
+    },
+    {
+      "file": "apps-smarters.md",
+      "pk": "iptv smarters pro"
+    },
+    {
+      "file": "apps-tivimate.md",
+      "pk": "tivimate iptv player"
+    },
+    {
+      "file": "apps-web-player.md",
+      "pk": "iptv web player"
+    },
+    {
+      "file": "apps.md",
+      "pk": "best iptv player"
+    },
+    {
+      "file": "blog-best-players.md",
+      "pk": "best m3u iptv playlist players"
+    },
+    {
+      "file": "blog-buffering-fix.md",
+      "pk": "m3u playlist buffering fix"
+    },
+    {
+      "file": "blog-firestick-m3u.md",
+      "pk": "m3u playlist for firestick"
+    },
+    {
+      "file": "blog-free-vs-premium.md",
+      "pk": "free m3u playlist vs premium"
+    },
+    {
+      "file": "blog-m3u-vs-xtream-codes.md",
+      "pk": "m3u playlist url vs xtream codes"
+    },
+    {
+      "file": "blog-setup-m3u.md",
+      "pk": "how to setup m3u iptv playlist"
+    },
+    {
+      "file": "blog-smart-tv-m3u.md",
+      "pk": "m3u playlist on smart tv"
+    },
+    {
+      "file": "blog-uk-m3u.md",
+      "pk": "m3u iptv playlist uk"
+    },
+    {
+      "file": "blog.md",
+      "pk": "m3u playlist blog"
+    },
+    {
+      "file": "compare-apple-fire.md",
+      "pk": "apple tv vs fire stick"
+    },
+    {
+      "file": "compare-chromecast-roku.md",
+      "pk": "chromecast vs roku"
+    },
+    {
+      "file": "compare-cube-stick.md",
+      "pk": "fire cube vs fire stick"
+    },
+    {
+      "file": "compare-firestick-models.md",
+      "pk": "fire stick 4k vs 4k max"
+    },
+    {
+      "file": "compare-google-android.md",
+      "pk": "google tv vs android tv"
+    },
+    {
+      "file": "compare-google-fire.md",
+      "pk": "google tv vs fire tv"
+    },
+    {
+      "file": "compare-iptv-cable.md",
+      "pk": "cable alternatives"
+    },
+    {
+      "file": "compare-live-tv-services.md",
+      "pk": "cheapest live tv streaming"
+    },
+    {
+      "file": "compare-roku-fire.md",
+      "pk": "roku vs firestick"
+    },
+    {
+      "file": "compare-roku-models.md",
+      "pk": "roku stick vs roku ultra"
+    },
+    {
+      "file": "compare-streamer-chromecast.md",
+      "pk": "google tv streamer vs chromecast"
+    },
+    {
+      "file": "compare-tablo-hdhomerun.md",
+      "pk": "tablo vs hdhomerun"
+    },
+    {
+      "file": "contact.md",
+      "pk": "iptv customer support"
+    },
+    {
+      "file": "faq.md",
+      "pk": "iptv questions"
+    },
+    {
+      "file": "free-trial.md",
+      "pk": "iptv usa free trial"
+    },
+    {
+      "file": "guide-4k-8k.md",
+      "pk": "4k iptv service"
+    },
+    {
+      "file": "guide-android-tv-box.md",
+      "pk": "android tv box"
+    },
+    {
+      "file": "guide-downloader-codes.md",
+      "pk": "firestick downloader codes"
+    },
+    {
+      "file": "guide-encoder.md",
+      "pk": "iptv encoder"
+    },
+    {
+      "file": "guide-epg.md",
+      "pk": "iptv epg"
+    },
+    {
+      "file": "guide-free-live-tv.md",
+      "pk": "free live tv streaming"
+    },
+    {
+      "file": "guide-hdhomerun.md",
+      "pk": "hd homerun"
+    },
+    {
+      "file": "guide-iptv-servers.md",
+      "pk": "best iptv server"
+    },
+    {
+      "file": "guide-legal.md",
+      "pk": "legal iptv in usa"
+    },
+    {
+      "file": "guide-local-channels.md",
+      "pk": "streaming services with local channels"
+    },
+    {
+      "file": "guide-m3u8-mp4.md",
+      "pk": "m3u8 to mp4"
+    },
+    {
+      "file": "guide-movie-apps.md",
+      "pk": "best movie apps for firestick"
+    },
+    {
+      "file": "guide-non-smart-tv.md",
+      "pk": "amazon fire stick non smart tv"
+    },
+    {
+      "file": "guide-sports.md",
+      "pk": "iptv for sports"
+    },
+    {
+      "file": "guide-what-is-iptv.md",
+      "pk": "what is iptv"
+    },
+    {
+      "file": "pricing.md",
+      "pk": "iptv subscription service"
+    },
+    {
+      "file": "privacy.md",
+      "pk": "privacy policy"
+    },
+    {
+      "file": "refund-policy.md",
+      "pk": "iptv refund policy"
+    },
+    {
+      "file": "reseller-servers.md",
+      "pk": "best iptv panel software"
+    },
+    {
+      "file": "setup-android-phone.md",
+      "pk": "iptv player for android"
+    },
+    {
+      "file": "setup-android-tv.md",
+      "pk": "iptv android tv"
+    },
+    {
+      "file": "setup-apple.md",
+      "pk": "best iptv app for apple tv"
+    },
+    {
+      "file": "setup-firestick.md",
+      "pk": "iptv on firestick"
+    },
+    {
+      "file": "setup-formuler.md",
+      "pk": "formuler iptv box"
+    },
+    {
+      "file": "setup-lg-tv.md",
+      "pk": "iptv on lg tv"
+    },
+    {
+      "file": "setup-mag-box.md",
+      "pk": "mag iptv box"
+    },
+    {
+      "file": "setup-roku.md",
+      "pk": "best iptv app for roku"
+    },
+    {
+      "file": "setup-samsung-tv.md",
+      "pk": "best iptv app for samsung tv"
+    },
+    {
+      "file": "setup-windows-mac.md",
+      "pk": "best iptv player for windows"
+    },
+    {
+      "file": "setup.md",
+      "pk": "how to set up iptv"
+    },
+    {
+      "file": "terms.md",
+      "pk": "terms of service"
+    },
+    {
+      "file": "troubleshooting-buffering.md",
+      "pk": "iptv buffering"
+    },
+    {
+      "file": "troubleshooting-not-working.md",
+      "pk": "iptv not working"
+    },
+    {
+      "file": "troubleshooting-vpn-firestick.md",
+      "pk": "vpn for firestick"
+    },
+    {
+      "file": "troubleshooting-vpn.md",
+      "pk": "best vpn for iptv"
+    },
+    {
+      "file": "troubleshooting.md",
+      "pk": "iptv troubleshooting"
+    }
+  ],
+  "missingH3": [
+    {
+      "file": "about.md",
+      "pk": "about iptv m3u playlist",
+      "h3Count": 0
+    },
+    {
+      "file": "apps-ibo.md",
+      "pk": "ibo player",
+      "h3Count": 4
+    },
+    {
+      "file": "apps-kodi.md",
+      "pk": "kodi iptv addon",
+      "h3Count": 0
+    },
+    {
+      "file": "apps-smarters.md",
+      "pk": "iptv smarters pro",
+      "h3Count": 0
+    },
+    {
+      "file": "apps-tivimate.md",
+      "pk": "tivimate iptv player",
+      "h3Count": 0
+    },
+    {
+      "file": "apps-web-player.md",
+      "pk": "iptv web player",
+      "h3Count": 0
+    },
+    {
+      "file": "apps-xciptv.md",
+      "pk": "xciptv",
+      "h3Count": 0
+    },
+    {
+      "file": "apps.md",
+      "pk": "best iptv player",
+      "h3Count": 0
+    },
+    {
+      "file": "blog-best-players.md",
+      "pk": "best m3u iptv playlist players",
+      "h3Count": 0
+    },
+    {
+      "file": "blog-buffering-fix.md",
+      "pk": "m3u playlist buffering fix",
+      "h3Count": 7
+    },
+    {
+      "file": "blog-firestick-m3u.md",
+      "pk": "m3u playlist for firestick",
+      "h3Count": 7
+    },
+    {
+      "file": "blog-free-vs-premium.md",
+      "pk": "free m3u playlist vs premium",
+      "h3Count": 7
+    },
+    {
+      "file": "blog-m3u-vs-xtream-codes.md",
+      "pk": "m3u playlist url vs xtream codes",
+      "h3Count": 2
+    },
+    {
+      "file": "blog-setup-m3u.md",
+      "pk": "how to setup m3u iptv playlist",
+      "h3Count": 0
+    },
+    {
+      "file": "blog-smart-tv-m3u.md",
+      "pk": "m3u playlist on smart tv",
+      "h3Count": 9
+    },
+    {
+      "file": "blog-uk-m3u.md",
+      "pk": "m3u iptv playlist uk",
+      "h3Count": 5
+    },
+    {
+      "file": "blog.md",
+      "pk": "m3u playlist blog",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-apple-fire.md",
+      "pk": "apple tv vs fire stick",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-chromecast-roku.md",
+      "pk": "chromecast vs roku",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-cube-stick.md",
+      "pk": "fire cube vs fire stick",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-firestick-models.md",
+      "pk": "fire stick 4k vs 4k max",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-google-android.md",
+      "pk": "google tv vs android tv",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-google-fire.md",
+      "pk": "google tv vs fire tv",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-iptv-cable.md",
+      "pk": "cable alternatives",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-live-tv-services.md",
+      "pk": "cheapest live tv streaming",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-roku-fire.md",
+      "pk": "roku vs firestick",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-roku-models.md",
+      "pk": "roku stick vs roku ultra",
+      "h3Count": 4
+    },
+    {
+      "file": "compare-streamer-chromecast.md",
+      "pk": "google tv streamer vs chromecast",
+      "h3Count": 0
+    },
+    {
+      "file": "compare-tablo-hdhomerun.md",
+      "pk": "tablo vs hdhomerun",
+      "h3Count": 0
+    },
+    {
+      "file": "contact.md",
+      "pk": "iptv customer support",
+      "h3Count": 0
+    },
+    {
+      "file": "faq.md",
+      "pk": "iptv questions",
+      "h3Count": 13
+    },
+    {
+      "file": "free-trial.md",
+      "pk": "iptv usa free trial",
+      "h3Count": 6
+    },
+    {
+      "file": "guide-4k-8k.md",
+      "pk": "4k iptv service",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-android-tv-box.md",
+      "pk": "android tv box",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-choose-provider.md",
+      "pk": "iptv reviews",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-downloader-codes.md",
+      "pk": "firestick downloader codes",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-encoder.md",
+      "pk": "iptv encoder",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-epg.md",
+      "pk": "iptv epg",
+      "h3Count": 4
+    },
+    {
+      "file": "guide-free-live-tv.md",
+      "pk": "free live tv streaming",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-hdhomerun.md",
+      "pk": "hd homerun",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-iptv-box.md",
+      "pk": "iptv box",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-iptv-servers.md",
+      "pk": "best iptv server",
+      "h3Count": 4
+    },
+    {
+      "file": "guide-legal.md",
+      "pk": "legal iptv in usa",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-local-channels.md",
+      "pk": "streaming services with local channels",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-m3u.md",
+      "pk": "m3u playlist",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-m3u8-mp4.md",
+      "pk": "m3u8 to mp4",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-movie-apps.md",
+      "pk": "best movie apps for firestick",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-non-smart-tv.md",
+      "pk": "amazon fire stick non smart tv",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-scams.md",
+      "pk": "legit iptv service",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-sports.md",
+      "pk": "iptv for sports",
+      "h3Count": 0
+    },
+    {
+      "file": "guide-what-is-iptv.md",
+      "pk": "what is iptv",
+      "h3Count": 5
+    },
+    {
+      "file": "home.md",
+      "pk": "m3u iptv playlist",
+      "h3Count": 16
+    },
+    {
+      "file": "pricing.md",
+      "pk": "iptv subscription service",
+      "h3Count": 0
+    },
+    {
+      "file": "privacy.md",
+      "pk": "privacy policy",
+      "h3Count": 0
+    },
+    {
+      "file": "refund-policy.md",
+      "pk": "iptv refund policy",
+      "h3Count": 0
+    },
+    {
+      "file": "reseller-servers.md",
+      "pk": "best iptv panel software",
+      "h3Count": 4
+    },
+    {
+      "file": "reseller.md",
+      "pk": "iptv reseller",
+      "h3Count": 4
+    },
+    {
+      "file": "setup-android-phone.md",
+      "pk": "iptv player for android",
+      "h3Count": 0
+    },
+    {
+      "file": "setup-android-tv.md",
+      "pk": "iptv android tv",
+      "h3Count": 0
+    },
+    {
+      "file": "setup-apple.md",
+      "pk": "best iptv app for apple tv",
+      "h3Count": 0
+    },
+    {
+      "file": "setup-firestick.md",
+      "pk": "iptv on firestick",
+      "h3Count": 0
+    },
+    {
+      "file": "setup-formuler.md",
+      "pk": "formuler iptv box",
+      "h3Count": 0
+    },
+    {
+      "file": "setup-lg-tv.md",
+      "pk": "iptv on lg tv",
+      "h3Count": 2
+    },
+    {
+      "file": "setup-mag-box.md",
+      "pk": "mag iptv box",
+      "h3Count": 0
+    },
+    {
+      "file": "setup-roku.md",
+      "pk": "best iptv app for roku",
+      "h3Count": 0
+    },
+    {
+      "file": "setup-samsung-tv.md",
+      "pk": "best iptv app for samsung tv",
+      "h3Count": 0
+    },
+    {
+      "file": "setup-windows-mac.md",
+      "pk": "best iptv player for windows",
+      "h3Count": 0
+    },
+    {
+      "file": "setup.md",
+      "pk": "how to set up iptv",
+      "h3Count": 0
+    },
+    {
+      "file": "terms.md",
+      "pk": "terms of service",
+      "h3Count": 0
+    },
+    {
+      "file": "troubleshooting-buffering.md",
+      "pk": "iptv buffering",
+      "h3Count": 0
+    },
+    {
+      "file": "troubleshooting-not-working.md",
+      "pk": "iptv not working",
+      "h3Count": 0
+    },
+    {
+      "file": "troubleshooting-vpn-firestick.md",
+      "pk": "vpn for firestick",
+      "h3Count": 0
+    },
+    {
+      "file": "troubleshooting-vpn.md",
+      "pk": "best vpn for iptv",
+      "h3Count": 0
+    },
+    {
+      "file": "troubleshooting.md",
+      "pk": "iptv troubleshooting",
+      "h3Count": 0
+    }
+  ]
+}

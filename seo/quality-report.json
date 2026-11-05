@@ -1,0 +1,870 @@
+{
+ "generatedAt": "2026-11-05T18:02:14.482Z",
+ "totals": {
+  "pages": 74,
+  "indexable": 74,
+  "noindex": 0,
+  "exactDuplicates": 0,
+  "nearDuplicatesOverThreshold": 0,
+  "maxPairwiseSimilarity": 0.056,
+  "cannibalizationConflicts": 0,
+  "keywordClusters": 62
+ },
+ "pages": [
+  {
+   "path": "/",
+   "file": "home.md",
+   "section": "home",
+   "words": 4706,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/about",
+   "file": "about.md",
+   "section": "company",
+   "words": 648,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"about iptv m3u playlist\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/apps",
+   "file": "apps.md",
+   "section": "apps",
+   "words": 626,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/apps/ibo-player",
+   "file": "apps-ibo.md",
+   "section": "apps",
+   "words": 615,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"ibo player\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/apps/iptv-smarters-pro",
+   "file": "apps-smarters.md",
+   "section": "apps",
+   "words": 655,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"iptv smarters pro\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/apps/iptv-web-player",
+   "file": "apps-web-player.md",
+   "section": "apps",
+   "words": 839,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/apps/kodi",
+   "file": "apps-kodi.md",
+   "section": "apps",
+   "words": 677,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/apps/tivimate",
+   "file": "apps-tivimate.md",
+   "section": "apps",
+   "words": 758,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"tivimate iptv player\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/apps/xciptv",
+   "file": "apps-xciptv.md",
+   "section": "apps",
+   "words": 529,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"xciptv\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog",
+   "file": "blog.md",
+   "section": "blog",
+   "words": 802,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"m3u playlist blog\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog/best-m3u-iptv-playlist-players",
+   "file": "blog-best-players.md",
+   "section": "blog",
+   "words": 1110,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"best m3u iptv playlist players\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog/best-uk-m3u-iptv-playlist",
+   "file": "blog-uk-m3u.md",
+   "section": "blog",
+   "words": 1067,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"m3u iptv playlist uk\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog/free-vs-premium-m3u-iptv-playlist",
+   "file": "blog-free-vs-premium.md",
+   "section": "blog",
+   "words": 1101,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"free m3u playlist vs premium\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog/how-to-setup-m3u-iptv-playlist",
+   "file": "blog-setup-m3u.md",
+   "section": "blog",
+   "words": 1382,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"how to setup m3u iptv playlist\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog/m3u-iptv-playlist-firestick-setup",
+   "file": "blog-firestick-m3u.md",
+   "section": "blog",
+   "words": 1114,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"m3u playlist for firestick\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog/m3u-iptv-playlist-for-smart-tv",
+   "file": "blog-smart-tv-m3u.md",
+   "section": "blog",
+   "words": 1155,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"m3u playlist on smart tv\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog/m3u-playlist-buffering-fix",
+   "file": "blog-buffering-fix.md",
+   "section": "blog",
+   "words": 1249,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"m3u playlist buffering fix\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/blog/m3u-playlist-url-vs-xtream-codes",
+   "file": "blog-m3u-vs-xtream-codes.md",
+   "section": "blog",
+   "words": 1033,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"m3u playlist url vs xtream codes\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/compare/apple-tv-vs-fire-stick",
+   "file": "compare-apple-fire.md",
+   "section": "compare",
+   "words": 822,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/chromecast-vs-roku",
+   "file": "compare-chromecast-roku.md",
+   "section": "compare",
+   "words": 793,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/fire-tv-cube-vs-stick",
+   "file": "compare-cube-stick.md",
+   "section": "compare",
+   "words": 793,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/firestick-models",
+   "file": "compare-firestick-models.md",
+   "section": "compare",
+   "words": 832,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/google-tv-streamer-vs-chromecast",
+   "file": "compare-streamer-chromecast.md",
+   "section": "compare",
+   "words": 808,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/google-tv-vs-android-tv",
+   "file": "compare-google-android.md",
+   "section": "compare",
+   "words": 808,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/google-tv-vs-fire-tv",
+   "file": "compare-google-fire.md",
+   "section": "compare",
+   "words": 848,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/iptv-vs-cable",
+   "file": "compare-iptv-cable.md",
+   "section": "compare",
+   "words": 799,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/live-tv-streaming-services",
+   "file": "compare-live-tv-services.md",
+   "section": "compare",
+   "words": 928,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/roku-models",
+   "file": "compare-roku-models.md",
+   "section": "compare",
+   "words": 714,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/roku-vs-fire-stick",
+   "file": "compare-roku-fire.md",
+   "section": "compare",
+   "words": 844,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/compare/tablo-vs-hdhomerun",
+   "file": "compare-tablo-hdhomerun.md",
+   "section": "compare",
+   "words": 829,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/contact",
+   "file": "contact.md",
+   "section": "company",
+   "words": 279,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"iptv customer support\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/faq",
+   "file": "faq.md",
+   "section": "company",
+   "words": 611,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"iptv questions\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/free-trial",
+   "file": "free-trial.md",
+   "section": "company",
+   "words": 1101,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/4k-8k-iptv",
+   "file": "guide-4k-8k.md",
+   "section": "guides",
+   "words": 746,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/android-tv-box",
+   "file": "guide-android-tv-box.md",
+   "section": "guides",
+   "words": 832,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/best-movie-apps-firestick",
+   "file": "guide-movie-apps.md",
+   "section": "guides",
+   "words": 814,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/fire-stick-non-smart-tv",
+   "file": "guide-non-smart-tv.md",
+   "section": "guides",
+   "words": 816,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/firestick-downloader-codes",
+   "file": "guide-downloader-codes.md",
+   "section": "guides",
+   "words": 890,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/free-live-tv-streaming",
+   "file": "guide-free-live-tv.md",
+   "section": "guides",
+   "words": 826,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/hdhomerun",
+   "file": "guide-hdhomerun.md",
+   "section": "guides",
+   "words": 908,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/how-to-choose-iptv-provider",
+   "file": "guide-choose-provider.md",
+   "section": "guides",
+   "words": 756,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/iptv-box",
+   "file": "guide-iptv-box.md",
+   "section": "guides",
+   "words": 789,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/iptv-encoder",
+   "file": "guide-encoder.md",
+   "section": "guides",
+   "words": 907,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/iptv-epg",
+   "file": "guide-epg.md",
+   "section": "guides",
+   "words": 783,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/iptv-local-channels",
+   "file": "guide-local-channels.md",
+   "section": "guides",
+   "words": 688,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/iptv-scams",
+   "file": "guide-scams.md",
+   "section": "guides",
+   "words": 761,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/iptv-servers",
+   "file": "guide-iptv-servers.md",
+   "section": "guides",
+   "words": 1342,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/is-iptv-legal-usa",
+   "file": "guide-legal.md",
+   "section": "guides",
+   "words": 709,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/m3u-playlist",
+   "file": "guide-m3u.md",
+   "section": "guides",
+   "words": 742,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/m3u8-to-mp4",
+   "file": "guide-m3u8-mp4.md",
+   "section": "guides",
+   "words": 788,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/sports-on-iptv",
+   "file": "guide-sports.md",
+   "section": "guides",
+   "words": 693,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/guides/what-is-iptv",
+   "file": "guide-what-is-iptv.md",
+   "section": "guides",
+   "words": 794,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"what is iptv\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/pricing",
+   "file": "pricing.md",
+   "section": "company",
+   "words": 559,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/privacy",
+   "file": "privacy.md",
+   "section": "legal",
+   "words": 375,
+   "status": "index",
+   "score": 90,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"privacy policy\" has no volume data in the keyword research",
+    "no hero image"
+   ]
+  },
+  {
+   "path": "/refund-policy",
+   "file": "refund-policy.md",
+   "section": "legal",
+   "words": 269,
+   "status": "index",
+   "score": 90,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"iptv refund policy\" has no volume data in the keyword research",
+    "no hero image"
+   ]
+  },
+  {
+   "path": "/reseller",
+   "file": "reseller.md",
+   "section": "company",
+   "words": 1575,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/reseller/iptv-servers",
+   "file": "reseller-servers.md",
+   "section": "company",
+   "words": 1404,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup",
+   "file": "setup.md",
+   "section": "setup",
+   "words": 533,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"how to set up iptv\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/setup/android-phone",
+   "file": "setup-android-phone.md",
+   "section": "setup",
+   "words": 658,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup/android-tv",
+   "file": "setup-android-tv.md",
+   "section": "setup",
+   "words": 786,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup/apple-tv-iphone",
+   "file": "setup-apple.md",
+   "section": "setup",
+   "words": 673,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup/firestick",
+   "file": "setup-firestick.md",
+   "section": "setup",
+   "words": 1068,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup/formuler",
+   "file": "setup-formuler.md",
+   "section": "setup",
+   "words": 839,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup/lg-tv",
+   "file": "setup-lg-tv.md",
+   "section": "setup",
+   "words": 698,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"iptv on lg tv\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/setup/mag-box",
+   "file": "setup-mag-box.md",
+   "section": "setup",
+   "words": 782,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup/roku",
+   "file": "setup-roku.md",
+   "section": "setup",
+   "words": 711,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup/samsung-tv",
+   "file": "setup-samsung-tv.md",
+   "section": "setup",
+   "words": 740,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/setup/windows-mac",
+   "file": "setup-windows-mac.md",
+   "section": "setup",
+   "words": 605,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/terms",
+   "file": "terms.md",
+   "section": "legal",
+   "words": 326,
+   "status": "index",
+   "score": 90,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"terms of service\" has no volume data in the keyword research",
+    "no hero image"
+   ]
+  },
+  {
+   "path": "/troubleshooting",
+   "file": "troubleshooting.md",
+   "section": "troubleshooting",
+   "words": 600,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"iptv troubleshooting\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/troubleshooting/iptv-buffering",
+   "file": "troubleshooting-buffering.md",
+   "section": "troubleshooting",
+   "words": 890,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"iptv buffering\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/troubleshooting/iptv-not-working",
+   "file": "troubleshooting-not-working.md",
+   "section": "troubleshooting",
+   "words": 702,
+   "status": "index",
+   "score": 95,
+   "reasons": [],
+   "warnings": [
+    "primary keyword \"iptv not working\" has no volume data in the keyword research"
+   ]
+  },
+  {
+   "path": "/troubleshooting/vpn-for-firestick",
+   "file": "troubleshooting-vpn-firestick.md",
+   "section": "troubleshooting",
+   "words": 910,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  },
+  {
+   "path": "/troubleshooting/vpn-for-iptv",
+   "file": "troubleshooting-vpn.md",
+   "section": "troubleshooting",
+   "words": 792,
+   "status": "index",
+   "score": 100,
+   "reasons": [],
+   "warnings": []
+  }
+ ],
+ "duplicates": {
+  "exact": [],
+  "near": [
+   {
+    "a": "/faq",
+    "b": "/troubleshooting",
+    "similarity": 0.056
+   },
+   {
+    "a": "/guides/iptv-epg",
+    "b": "/troubleshooting/iptv-buffering",
+    "similarity": 0.056
+   },
+   {
+    "a": "/guides/iptv-encoder",
+    "b": "/guides/iptv-epg",
+    "similarity": 0.055
+   },
+   {
+    "a": "/compare/iptv-vs-cable",
+    "b": "/guides/iptv-epg",
+    "similarity": 0.054
+   },
+   {
+    "a": "/guides/hdhomerun",
+    "b": "/troubleshooting/iptv-buffering",
+    "similarity": 0.054
+   },
+   {
+    "a": "/compare/iptv-vs-cable",
+    "b": "/faq",
+    "similarity": 0.053
+   },
+   {
+    "a": "/guides/iptv-encoder",
+    "b": "/troubleshooting/iptv-buffering",
+    "similarity": 0.052
+   },
+   {
+    "a": "/compare/iptv-vs-cable",
+    "b": "/guides/iptv-encoder",
+    "similarity": 0.051
+   },
+   {
+    "a": "/compare/iptv-vs-cable",
+    "b": "/troubleshooting/iptv-buffering",
+    "similarity": 0.051
+   },
+   {
+    "a": "/guides/iptv-epg",
+    "b": "/guides/hdhomerun",
+    "similarity": 0.051
+   },
+   {
+    "a": "/compare/iptv-vs-cable",
+    "b": "/guides/hdhomerun",
+    "similarity": 0.05
+   }
+  ]
+ },
+ "cannibalization": [],
+ "errors": []
+}

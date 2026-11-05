@@ -1,0 +1,372 @@
+{
+ "/about": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/apps/ibo-player": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/apps/kodi": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/apps/iptv-smarters-pro": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/apps/tivimate": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/apps/iptv-web-player": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/apps/xciptv": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/apps": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/blog/best-m3u-iptv-playlist-players": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/blog/m3u-playlist-buffering-fix": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/blog/m3u-iptv-playlist-firestick-setup": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/blog/free-vs-premium-m3u-iptv-playlist": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/blog/m3u-playlist-url-vs-xtream-codes": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/blog/how-to-setup-m3u-iptv-playlist": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/blog/m3u-iptv-playlist-for-smart-tv": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/blog/best-uk-m3u-iptv-playlist": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/blog": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/compare/apple-tv-vs-fire-stick": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/chromecast-vs-roku": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/fire-tv-cube-vs-stick": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/firestick-models": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/google-tv-vs-android-tv": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/google-tv-vs-fire-tv": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/iptv-vs-cable": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/live-tv-streaming-services": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/roku-vs-fire-stick": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/roku-models": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/google-tv-streamer-vs-chromecast": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/compare/tablo-vs-hdhomerun": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/contact": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/faq": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/free-trial": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/4k-8k-iptv": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/android-tv-box": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/how-to-choose-iptv-provider": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/firestick-downloader-codes": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/iptv-encoder": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/iptv-epg": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/free-live-tv-streaming": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/hdhomerun": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/iptv-box": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/iptv-servers": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/is-iptv-legal-usa": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/iptv-local-channels": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/m3u-playlist": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/m3u8-to-mp4": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/best-movie-apps-firestick": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/fire-stick-non-smart-tv": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/iptv-scams": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/sports-on-iptv": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/guides/what-is-iptv": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/pricing": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/privacy": {
+  "status": "index",
+  "score": 90,
+  "reasons": []
+ },
+ "/refund-policy": {
+  "status": "index",
+  "score": 90,
+  "reasons": []
+ },
+ "/reseller/iptv-servers": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/reseller": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/android-phone": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/android-tv": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/apple-tv-iphone": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/firestick": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/formuler": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/lg-tv": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/setup/mag-box": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/roku": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/samsung-tv": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup/windows-mac": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/setup": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/terms": {
+  "status": "index",
+  "score": 90,
+  "reasons": []
+ },
+ "/troubleshooting/iptv-buffering": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/troubleshooting/iptv-not-working": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ },
+ "/troubleshooting/vpn-for-firestick": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/troubleshooting/vpn-for-iptv": {
+  "status": "index",
+  "score": 100,
+  "reasons": []
+ },
+ "/troubleshooting": {
+  "status": "index",
+  "score": 95,
+  "reasons": []
+ }
+}
