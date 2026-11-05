@@ -1,8 +1,8 @@
 {
   "_note": "Real, owner-confirmed business facts only. Leave null until confirmed. Gated pages stay noindex while their fields are null.",
-  "brand": "IPTV M3U Playlist",
-  "domain": "iptvm3uplaylist.com",
-  "siteUrl": "https://iptvm3uplaylist.com",
+  "brand": "IPTV Playlist 8K",
+  "domain": "iptvplaylist8k.com",
+  "siteUrl": "https://iptvplaylist8k.com",
   "email": "support@streamb4.com",
   "whatsapp": "+212625218443",
   "telegram": null,
@@ -102,7 +102,7 @@
   "refundPolicy": "We offer a 7-day technical satisfaction policy. If you encounter persistent technical streaming issues that our support team cannot resolve on your compatible device, you are eligible for a prompt prorated refund. Contact us directly via WhatsApp or email with your order details.",
   "checkoutMethod": "Order through WhatsApp",
   "contentRightsConfirmed": true,
-  "legalEntity": "IPTV M3U Playlist LLC",
+  "legalEntity": "IPTV Playlist 8K LLC",
   "reseller": {
     "available": true,
     "details": "We offer multi-server IPTV reseller panels and credit packages across 47+ top infrastructures, including Trex, Strong IPTV, Mega OTT, Crystal OTT, Magnum, King 365, Cobra, and premium OTT networks. Resellers get full access to manage clients, sub-resellers, trials, custom bouquets, and M3U/Xtream Codes lines. Contact us directly on WhatsApp to discuss credit tiers and request a test panel."

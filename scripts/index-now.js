@@ -1,15 +1,15 @@
 /**
- * Fast Indexing Protocol for IPTV M3U Playlist (iptvm3uplaylist.com)
+ * Fast Indexing Protocol for IPTV Playlist 8K (iptvplaylist8k.com)
  * Submits all sitemap URLs to IndexNow (Bing, Yandex, Seznam, Naver)
  */
 const fs = require('fs');
 const path = require('path');
 
 // CONFIGURATION
-const HOST = 'iptvm3uplaylist.com';
-const SITE_URL = 'https://iptvm3uplaylist.com';
+const HOST = 'iptvplaylist8k.com';
+const SITE_URL = 'https://iptvplaylist8k.com';
 const SITEMAP_URL = `${SITE_URL}/sitemap.xml`;
-const INDEXNOW_KEY = 'iptvm3uplaylist-indexnow-2026-key';
+const INDEXNOW_KEY = 'iptvplaylist8k-indexnow-2026-key';
 const LOCAL_DEV_SITEMAP = 'http://localhost:3020/sitemap.xml';
 
 /**
@@ -123,7 +123,7 @@ async function submitToIndexNow(urls) {
 // MAIN EXECUTION
 (async () => {
     try {
-        console.log('⚡ Starting Fast Indexing Protocol for IPTV M3U Playlist...');
+        console.log('⚡ Starting Fast Indexing Protocol for IPTV Playlist 8K...');
         console.log(`🌐 Target Host: ${HOST}`);
         console.log(`🔑 IndexNow Key: ${INDEXNOW_KEY}`);
         console.log(`📄 Key Location: ${SITE_URL}/${INDEXNOW_KEY}.txt`);
@@ -152,4 +152,3 @@ async function submitToIndexNow(urls) {
         process.exit(1);
     }
 })();
-

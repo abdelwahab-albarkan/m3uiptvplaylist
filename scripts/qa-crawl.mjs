@@ -13,7 +13,7 @@ import fs from "node:fs";
 import path from "node:path";
 
 const BASE = process.env.BASE ?? "http://localhost:3000";
-const SITE = "https://iptvm3uplaylist.com";
+const SITE = "https://iptvplaylist8k.com";
 const ROOT = process.cwd();
 const indexability = JSON.parse(fs.readFileSync(path.join(ROOT, "seo", "indexability.json"), "utf8"));
 const routes = Object.keys(indexability);

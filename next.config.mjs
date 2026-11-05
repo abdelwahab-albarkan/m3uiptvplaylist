@@ -29,14 +29,26 @@ const nextConfig = {
     return [
       {
         source: "/:path*",
-        has: [{ type: "host", value: "iptv-usa8k.com" }],
-        destination: "https://iptvm3uplaylist.com/:path*",
+        has: [{ type: "host", value: "www.iptvplaylist8k.com" }],
+        destination: "https://iptvplaylist8k.com/:path*",
+        permanent: true,
+      },
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "iptvm3uplaylist.com" }],
+        destination: "https://iptvplaylist8k.com/:path*",
         permanent: true,
       },
       {
         source: "/:path*",
         has: [{ type: "host", value: "www.iptvm3uplaylist.com" }],
-        destination: "https://iptvm3uplaylist.com/:path*",
+        destination: "https://iptvplaylist8k.com/:path*",
+        permanent: true,
+      },
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "iptv-usa8k.com" }],
+        destination: "https://iptvplaylist8k.com/:path*",
         permanent: true,
       },
       // Legacy paths from the earlier draft architecture -> their single canonical owner.
